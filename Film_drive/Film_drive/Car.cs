@@ -5,7 +5,7 @@ namespace Film_drive
 {
     internal class Car
     {
-        public static void Run()
+        public static void dvij()
         {
             double Road = 1000;
             double kmSpeed;
